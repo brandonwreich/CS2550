@@ -1,0 +1,71 @@
+#firstPicture {
+    float: right;
+    width: 500px;
+    height: 700px; 
+}
+
+span.books {
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+#haiku {
+    font-family: cursive;
+}
+
+#maukaProject {
+    text-decoration: underline;
+    color: blue;
+}
+
+#schedule-table {
+    border: 1px solid black;
+    border-spacing: 3px;
+    padding: 3px;
+    table-layout: fixed;
+    width: 50%;
+}
+
+th, td {
+    padding: 3px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: lightgray;
+}
+
+td.work {
+    background-color: lightblue;
+}
+
+td.english {
+    background-color: lightcoral;
+}
+
+td.philo {
+    background-color: lightseagreen;
+}
+
+td.cs1 {
+    background-color: goldenrod;
+}
+
+td.cs2 {
+    background-color: blueviolet;
+}
+
+td.gym {
+    background-color: rgb(42, 165, 85);
+}
+
+td.lunch {
+    background-color: yellow;
+}
