@@ -1,7 +1,21 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: seashell;
+}
+
+p {
+    margin-top: 7.5px;
+    margin-bottom: 7.5px;
+}
+
 #firstPicture {
     float: right;
     width: 500px;
     height: 700px; 
+}
+
+#pageTitle {
+    font-size: 30pt;
 }
 
 span.books {
