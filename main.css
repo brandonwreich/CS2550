@@ -9,6 +9,11 @@ p {
     margin-bottom: 7.5px;
 }
 
+h2 {
+    margin-top: 22.5px;
+    margin-bottom: 3px;
+}
+
 #firstPicture {
     float: right;
     width: 400px;
