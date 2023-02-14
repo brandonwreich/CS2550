@@ -1,8 +1,10 @@
+html {
+    background-image: url(imgs/bckgrnd.jpeg);
+}
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: seashell;
     font-size: 12px;
-    background-image: url(imgs/bckgrnd.jpeg);
 }
 
 p {
